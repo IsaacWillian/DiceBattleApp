@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiceBattle</string>
+    <string name="player1name">Player 1</string>
+    <string name="player2name">Player 2</string>
+    <string name="roll">Roll</string>
+    <string name="player1Victory">Player 1 wins</string>
+    <string name="player2Victory">Player 2 wins</string>
+</resources>
